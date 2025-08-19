@@ -27,22 +27,7 @@ I'm a Data & Analytics Engineer passionate about transforming data into powerful
 - Financial forecasting models and planning automation in **Azure & Databricks** at **Venon Solutions**.
 - Predictive risk scoring and segmentation for debt collection in **Gestiona GTX**.
 - Churn prediction and subscription analysis for **IoT telemetry data** in **Location World**.
-
----
-## 💼 What I Do
-
-- 🚀 **Data Engineering & ETL Pipelines**  
-  Design and implement robust data pipelines using **Azure Data Factory**, **SQL Server**, **Databricks**, and **Python/PySpark**.
-
-- 📊 **Business Intelligence & Reporting**  
-  Build interactive dashboards and KPIs in **Power BI** and **Tableau**, aligned with business objectives (finance, sales, operations, collections).
-
-- 🧠 **Analytics & Predictive Modeling**  
-  Apply statistical and machine learning techniques to forecast trends and optimize strategies.
-
-- 🔐 **Data Governance & Architecture**  
-  Develop secure, scalable data models (star/snowflake), implement best practices in performance tuning, and maintain clean data ecosystems.
-
+- 
 ---
 ### 🌱 I’m currently learning
 
