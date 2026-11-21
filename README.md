@@ -1,8 +1,16 @@
-# Hi there 👋
+<h1 align="center">Data & Analytics Engineer</h1>
 
-I'm a **Data & Analytics Engineer** focused on **Data Engineering, Business Intelligence and AI**. I design scalable data solutions that transform data into reliable insights and better business decisions.
+<p align="center">
+  <strong>Data Engineering · Business Intelligence · Artificial Intelligence</strong>
+</p>
 
-## 🚀 Core technologies
+<p align="center">
+  I design scalable data solutions that transform data into reliable insights and better business decisions.
+</p>
+
+---
+
+## Core Technologies
 
 ### Data & Analytics
 
@@ -50,44 +58,48 @@ I'm a **Data & Analytics Engineer** focused on **Data Engineering, Business Inte
 <tr>
 <td align="center"><img width="52" src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow"/><br><sub>TensorFlow</sub></td>
 <td align="center"><img width="52" src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch"/><br><sub>PyTorch</sub></td>
-<td align="center">🧠<br><sub>Generative AI</sub></td>
-<td align="center">📈<br><sub>Machine Learning</sub></td>
-<td align="center">💬<br><sub>NLP</sub></td>
+<td align="center">◈<br><sub>Generative AI</sub></td>
+<td align="center">◌<br><sub>Machine Learning</sub></td>
+<td align="center">○<br><sub>NLP</sub></td>
 </tr>
 </table>
 
-## 🔭 I'm currently working on
+---
+
+## Current Focus
 
 - Freelance data projects improving reporting efficiency by **30%+**.
 - Delivering BI dashboards currently used by **50+ business users** each month.
 - Building cloud ETL pipelines processing **1M+ records/day**, aiming to scale to **10M+**.
 - Supporting clients to move from raw data to **real-time insights** that drive faster decisions.
 
-## 🌱 I'm currently learning
+## Learning
 
 **Deep Learning · Large Language Models · Computer Vision · MLOps · Cloud AI**
 
-## 🤝 I'm open to collaborate on
+## Collaboration
 
 - Scaling **real-time data pipelines** and streaming solutions.
 - Improving **data quality frameworks** and automated validation.
 - Applying **AI/ML models** to enhance **business intelligence**.
 - Exploring **cloud-native architectures** for big data analytics.
 
-## 📌 Featured projects
+## Featured Projects
 
 - **NiagaraFlow** — data analysis and forecasting for cross-border travel flows.
 - **Cloud Data Platforms** — Azure Data Factory, ADLS, Databricks and Synapse solutions.
 - **CreditV Analytics** — SCD Type 2, data quality and process automation.
 - **Hotel Booking Summary Tool** — modular analytics, testing and reporting.
 
-## 📫 Connect with me
+## Contact
 
-<a href="https://www.linkedin.com/in/henry-santiago-suarez-sarabia-7b97a5171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:henry.suarez.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/henry-santiago-suarez-sarabia-7b97a5171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:henry.suarez.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 > Turning data into insight, and insight into action.
 
-## ⚡ Fun fact
+## Fun Fact
 
 Every company says they're “data-driven”… until the boss brings a gut feeling.
